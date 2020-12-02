@@ -1,4 +1,5 @@
 importClass(org.jsoup.Jsoup);
+importClass(java.io.File);
 importClass(java.io.FileOutputStream);
 importClass(java.net.URL);
 
